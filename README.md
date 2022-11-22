@@ -4,7 +4,7 @@
 	</a>
 </p>
 
-<h1 align="center">Native System Automation for Node</h1>
+<h1 align="center">Native System Automation for Node.</h1>
 
 <p align="center">
 	<a target="_blank" href="http://getrobot.net">
