@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-	Native System Automation for Node
+	Native System Automation for Node.
 </h1>
 
 <p align="center">
